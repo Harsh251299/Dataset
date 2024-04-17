@@ -1,3 +1,4 @@
+tweet_id|timestamp|tweet
 304596701757464576|Thu Feb 21 14:21:27 +0000 2013|#FastFood Makes Up 11 Percent of #Calories in U.S. #Diet http://bit.ly/VymaIc
 304595191329853441|Thu Feb 21 14:15:27 +0000 2013|10 snacks to help you lose weight, burn fat, and build muscle: http://bit.ly/TeQPqk
 304587659018371072|Thu Feb 21 13:45:31 +0000 2013|10 foods that boost your skin AND slim your waistline: http://trib.al/LDbxW6
